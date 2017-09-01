@@ -1,0 +1,539 @@
+body 
+{
+    background-color:#1e1e1e;
+    direction:ltr;
+    font-family: 'Oswald', sans-serif;
+}
+
+#container
+{
+    
+    margin-left:320px;
+    width:1550px;
+}
+
+header{
+    
+    margin-top:80px;
+    margin-bottom:70px;
+    margin-left:270px;
+}
+
+a #logo
+
+{
+background-image:url(../images/SaltShaker.png);
+background-repeat:no-repeat;
+background-size:100px;
+width:100px;
+height:100px;
+position:relative;
+bottom:370px;
+left:920px;
+}
+a #logo2
+{
+    background-image:url(../images/SaltShaker.png);
+background-repeat:no-repeat;
+background-size:100px;
+width:100px;
+height:100px;
+position:relative;
+bottom:671px;
+left:920px;
+}
+a h1{
+    font-size:42px;
+    color:white;
+    padding-left:188px;
+}
+a h1:hover
+{
+    transform:scale(1.05);
+    margin-left:15px;
+}
+h2{
+    margin-top:20px;
+    font-size:22px;
+    color:white;
+    padding-left:15px;
+}
+
+#sec1{
+    margin-left:230px;
+    
+}
+nav ul li 
+{
+display:inline-block;
+float:left;
+margin-left:5px;
+list-style:none;
+text-align:center;
+}
+#sec2{
+    margin-top:200px;
+    margin-left:230px;
+}
+
+#altsec1
+{
+     margin-left:230px;
+}
+
+#altsec2
+{
+  
+    margin-left:230px;
+    margin-top:140px;
+}
+
+/*Gifs*/
+
+#adengif
+{
+    position:relative;
+    top:120px;
+    left:-10px;
+    background-image:url('../gifs/750x480 aden1.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+
+}
+#adengif2
+{
+    position:relative;
+    bottom:225px;
+    right:390px;
+    display:inline;
+    float:right;
+    background-image:url('../gifs/750x480 aden2.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+
+#adjgif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 adjantha.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+#banitegif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 banite.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+
+#circegif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 circe.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+
+#densgif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 dens.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+
+#embergif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 ember hb.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+
+
+#kricketgif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 kricket.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+#pseudodudegif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 psuedodude.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+#razzekgif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 razzek.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+#rystefngif
+{
+    position:relative;
+    top:120px;
+    left:-10px;
+    background-image:url('../gifs/750x480 rystefn1.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+#rystefngif2
+{
+    position:relative;
+    bottom:225px;
+    right:390px;
+    display:inline;
+    float:right;
+    background-image:url('../gifs/750x480 rystefn2.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+#snydergif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 snyder.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+#tehyagif
+{
+    position:relative;
+    top:120px;
+    left:290px;
+    background-image:url('../gifs/750x480 tehya.gif');
+    background-size:560px;
+    width:560px;
+    height:345px;
+    
+
+}
+a
+{color:white;
+ text-decoration:none;
+ font-family: 'Oswald', sans-serif;
+ 
+
+}
+
+/*Nav*/
+li
+{
+margin-right:40px;
+
+ 
+}
+#aden
+{
+    background-image:url(../images/Aden.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+#adjantha
+{
+    background-image:url(../images/Adjantha.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+#banite
+{
+    background-image:url(../images/Banite.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+#circe
+{
+    background-image:url(../images/Circe.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+#dens
+{
+    background-image:url(../images/Dens.png);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+#ember
+{
+    background-image:url(../images/Ember.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+
+#kricket
+{
+    background-image:url(../images/Kricket.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+
+#pseudodude
+{
+    background-image:url(../images/Pseudodude.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+
+#razzek
+{
+    background-image:url(../images/Razzek.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+
+#rystefn
+{
+    background-image:url(../images/Rystefn.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+
+#snyder
+{
+    background-image:url(../images/Snyder.PNG);
+    background-repeat:no-repeat;
+    background-size:95px;
+    height:80px;
+    width:80px;
+}
+
+#tehya
+{
+    background-image:url(../images/Tehya.PNG);
+    background-repeat:no-repeat;
+    background-size:90px;
+    height:80px;
+    width:80px;
+}
+
+/*hovers*/
+
+#aden:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+#adjantha:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+#banite:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+#circe:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+#dens:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+#ember:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+
+#kricket:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+
+#pseudodude:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+
+#razzek:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+
+#rystefn:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+
+#snyder:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
+
+#tehya:hover,.selected
+{
+   -moz-transform: scale(1.1);
+-webkit-transform: scale(1.1);
+-o-transform: scale(1.1);
+-ms-transform: scale(1.1);
+transform: scale(1.1);
+-webkit-transition: all 145ms ease-in-out;
+-moz-transition: all 145ms ease-in-out;
+-o-transition: all 145ms ease-in-out;
+transition: all 180ms ease-in-out;
+}
